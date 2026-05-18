@@ -1,4 +1,4 @@
-# AgentPay OS — Demo Agent
+# AgentPay OS - Demo Agent
 
 Simulates a vendor payment AI agent submitting payment requests through AgentPay OS governance layer.
 
