@@ -1,5 +1,5 @@
 /**
- * AgentPay OS — Demo Vendor Payment Agent
+ * AgentPay OS : Demo Vendor Payment Agent
  *
  * Simulates an AI agent that autonomously decides to make vendor payments
  * and submits them through AgentPay OS for governance and approval.
