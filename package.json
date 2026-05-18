@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "Simulates a vendor payment AI agent submitting payment requests through AgentPay OS governance layer.",
   "main": "agent.demo.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "git+https://github.com/Cybugg/APO-agent.git"
   },
   "keywords": [],
